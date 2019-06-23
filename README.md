@@ -1,14 +1,8 @@
-# AR Foundation Samples
-Example projects that use *AR Foundation* and demonstrate its functionality with sample assets and components.
-
+# MIT Virtual Experience Design Lab AR Foundation Templates (Adopted from AR Foundation Samples)
+Templates for placing 3D Models in Augmented Reality for iOS and Android. 
 Compatible with Unity 2019.1 and later.
+Follow the tutorial at http://virtualxdesign.mit.edu/blog/2019/6/22/viewing-your-models-in-ar
 
-## Instructions for installing AR Foundation
+#Original AR Foundation Samples Repo
 
-1. Download the latest version of Unity 2019.1 or later.
-
-2. Open Unity, and load the project at the root of the *arfoundation-samples* repository.
-
-3. Open your choice of sample scene.
-
-4. See the [AR Foundation Documentation](https://docs.unity3d.com/Packages/com.unity.xr.arfoundation@2.0) for usage instructions and more information.
+https://github.com/Unity-Technologies/arfoundation-samples
